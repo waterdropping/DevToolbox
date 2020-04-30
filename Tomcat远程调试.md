@@ -12,3 +12,4 @@ set CATALINA_OPTS=-server -Xdebug -Xnoagent -Djava.compiler=NONE -Xrunjdwp:trans
 在IDEA中设置
 
 ![image](https://github.com/waterdropping/MyImages/blob/master/IDEA_remote_debug_config.png)
+
