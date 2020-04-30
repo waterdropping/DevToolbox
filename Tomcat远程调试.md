@@ -10,4 +10,5 @@ set CATALINA_OPTS=-server -Xdebug -Xnoagent -Djava.compiler=NONE -Xrunjdwp:trans
 3. 通过startup.bat启动Tomcat
 
 在IDEA中设置
-!(https://github.com/waterdropping/MyImages/blob/master/IDEA_remote_debug_config.png)
+
+![image](https://github.com/waterdropping/MyImages/blob/master/IDEA_remote_debug_config.png)
